@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaContaBancaria", "SistemaContaBancaria\SistemaContaBancaria.csproj", "{C201B56D-39BC-401A-98B9-92AC78B2D4C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaContaBancaria.Tests", "SistemaContaBancaria.Tests\SistemaContaBancaria.Tests.csproj", "{CCD02054-3270-47CD-897A-72D0B043C3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C201B56D-39BC-401A-98B9-92AC78B2D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C201B56D-39BC-401A-98B9-92AC78B2D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C201B56D-39BC-401A-98B9-92AC78B2D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C201B56D-39BC-401A-98B9-92AC78B2D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD02054-3270-47CD-897A-72D0B043C3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD02054-3270-47CD-897A-72D0B043C3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD02054-3270-47CD-897A-72D0B043C3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD02054-3270-47CD-897A-72D0B043C3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8431A389-6C65-4BCB-8B80-F89B8572F130}
+	EndGlobalSection
+EndGlobal
